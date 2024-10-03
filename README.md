@@ -21,3 +21,7 @@ Your task is to create a fun and functional powered virtual aquarium.
 - The fish needed to be fed all 10 seconds, and said, “I’m hungry”
 - If the fish not fed for 10 seconds, the fish is dead and be removed after 5 seconds
 - The direction and the speed change randomly between 4 seconds and 10 seconds, or for touching the border of the aquarium.
+
+  ## Screenshot
+
+  ![image](https://github.com/user-attachments/assets/32279913-55b8-4f1a-8dbf-dcb06f66c8bf)
